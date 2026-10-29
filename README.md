@@ -1,57 +1,164 @@
-# 💻 Front-end — Resumo das Aulas
 
-Repositório destinado ao registro e organização das atividades desenvolvidas durante a disciplina de **Front-end** - 2º semestre de 2026
+# SENAI CFP 404 Sorocaba Itavuvu — Gestão de Prazos e Rotinas de RH (RH+)
 
-|  Aula  | Conteúdo                                                |                                                 PDF                                                 | Projeto                                |                                                       Repositório                                                       |                                                    Deploy                                                    |
-| :----: | ------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: | -------------------------------------- | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| **01** | Apresentação da Disciplina e Ecossistema Front-end      | [📄 PDF](Aulas/Aula%2001%20-%20Apresentação%20da%20Disciplina%20e%20Contextualização%20%281%29.pdf) | ❌⭕ Jogo da Velha<br>🧠 Memória Família | [🔗 Jogo da Velha](https://github.com/edilainesolde2024-blip/velha-x)<br>[🔗 Memória Família](https://github.com/edilainesolde2024-blip/memoria-familia) | [🚀 Jogo da Velha](https://velha-x.vercel.app/)<br>[🚀 Memória Família](https://memoria-familia.vercel.app/) |
-| **02** | Configuração do Ambiente de Desenvolvimento             |       [📄 PDF](Aulas/Aula%2002%20-%20Configuração%20do%20Ambiente%20de%20Desenvolvimento.pdf)       | 🎮 Jogo de Palavras                    |                               [🔗 GitHub](https://github.com/edilainesolde2024-blip/react)                               |                         [🚀 Vercel](https://react-aula2-7bprwiua0-solde1.vercel.app/)                         |
-| **03** | Responsividade e Ferramentas do Desenvolvedor           |             [📄 PDF](Aulas/Aula%2003%20-%20Projetos%20com%20Frameworks%20Front-end.pdf)             | 🌐 Projeto React                       |                                                           —                                                             |                            [🚀 Vercel](https://react-git-main-solde1.vercel.app/)                            |
-| **04** | Frameworks CSS                                          |                [📄 PDF](Aulas/Aula%2004%20-%20Consumindo%20APIs%20no%20Front-end.pdf)               | 🔗 API Node                            |                              [🔗 GitHub](https://github.com/edilainesolde2024-blip/apinode)                             |                         [🚀 Vercel](https://apinode-p7zn2wvjt-solde1.vercel.app/)                          |
-| **05** | Projeto Integrador (PII) – Planejamento da Interface    |            [📄 PDF](Aulas/Aula%2005%20-%20Criando%20APIs%20para%20o%20Front-end.pdf)               | —                                      |                                                           —  16 set 26 revisão para o projeto integrador                                                           |                                                      —                                                       |
-| **06** | Introdução aos Frameworks Front-end                     |   [📄 PDF](https://github.com/edilainesolde/front-end/blob/main/Aulas/Aula%2006%20-%20Projetos%20Front-End.pdf)                                               —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **07** | Estrutura de um Projeto Front-end                       |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **08** | Componentes e Propriedades                              |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **09** | Projeto Integrador (PII) – Desenvolvimento da Interface |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **10** | Estados e Eventos                                       |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **11** | Rotas e Navegação                                       |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **12** | Autoavaliação Institucional                             |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **13** | Projeto Integrador (PII) – Integração dos Componentes   |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **14** | Boas Práticas no Desenvolvimento Front-end              |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **15** | Avaliação Integradora                                   |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **16** | Publicação e Deploy de Aplicações                       |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **17** | Preparação das Apresentações do Projeto                 |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **18** | Bancas do Projeto Integrador e Autoavaliação Discente   |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **19** | Tendências em Desenvolvimento Front-end                 |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
-| **20** | Revisão Geral e Encerramento da Disciplina              |                                                  —                                                  | —                                      |                                                           —                                                             |                                                      —                                                       |
+Aplicação web desenvolvida em **React** e **Vite** para auxiliar o setor administrativo e de Recursos Humanos do **SENAI CFP 404 Sorocaba Itavuvu** no acompanhamento de vencimentos de férias, conferência administrativa de atestados médicos e controle de licenças/faltas remuneradas previstas no Acordo Coletivo de Trabalho.
 
 ---
 
-## 🛠️ Tecnologias
-
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Node.js
-* APIs
-* Git
-* GitHub
-* Vercel
-* Visual Studio Code
+## 📌 Repositório Oficial
+- **GitHub:** [https://github.com/edilainesolde/rh-plus](https://github.com/edilainesolde/rh-plus)
 
 ---
 
-## 👩‍💻 Autora
+## 🚀 Como Executar o Projeto Localmente
 
-**Edilainesolde2024-blip**
+### Pré-requisitos
+- **Node.js** (versão 18.0 ou superior)
+- **npm** instalado
 
-Estudante de Análise e Desenvolvimento de Sistemas — UniSenai — 2026
+### Passo a Passo
 
-🔗 [GitHub](https://github.com/edilainesolde2024-blip)
+1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/edilainesolde/rh-plus.git](https://github.com/edilainesolde/rh-plus.git)
+   cd rh-plus
 
-🔗 [LinkedIn](https://www.linkedin.com/in/edilaine-paulino)
+```
+
+2. **Instalar as dependências:**
+```bash
+npm install
+
+```
+
+
+3. **Gerar/Atualizar a estrutura de arquivos (caso necessário):**
+```bash
+node setup.js
+
+```
+
+
+4. **Iniciar o servidor de desenvolvimento:**
+```bash
+npm run dev
+
+```
+
+
+5. Acesse no navegador: `http://localhost:5173`
 
 ---
 
-⭐ **Repositório em construção — novas atividades serão adicionadas conforme o andamento da disciplina.**
+## 💡 Mapeamento de Onde os Conceitos React Foram Aplicados
+
+Abaixo está o detalhamento prático de como cada requisito da atividade foi implementado na estrutura do projeto:
+
+---
+
+### 1. State e `useState`
+
+O gerenciamento de estado interno foi aplicado em múltiplos níveis da aplicação para controlar dados dinâmicos da interface e entradas do usuário.
+
+* **Onde foi aplicado:**
+* `src/context/AppContext.jsx`: Gerencia os estados globais da aplicação (`colaboradores`, `ferias`, `atestados`, `licencas`) e o estado didático `interactionCount`.
+* `src/pages/Dashboard.jsx`: Utiliza `useState` para controlar os dados retornados pela API e o carregamento do aviso.
+* `src/pages/Colaboradores.jsx`: Utiliza estados locais (`nome`, `nif`, `dataNascimento`, `msg`) para capturar os dados informados nos inputs.
+* `src/components/SearchFilters.jsx`: Controla o estado de busca e filtragem por nome e situação (`searchTerm`, `statusFilter`).
+
+
+* **Demonstração Didática (Contador):**
+* Na tela **Dashboard**, o cartão *Contador de Interações* altera dinamicamente o número na tela utilizando a função `setInteractionCount(prev => prev + 1)` acionada ao clicar no botão "Adicionar".
+
+
+
+---
+
+### 2. Formulários e Campos Controlados
+
+Todos os formulários do sistema utilizam o padrão de **Campos Controlados**, onde o valor do input é ligado diretamente a um estado e atualizado a cada digitação.
+
+* **Onde foi aplicado:**
+* `src/pages/Colaboradores.jsx`: Formulário de cadastro de colaboradores com campos controlados usando `value={nome}` e `onChange={(e) => setNome(e.target.value)}`.
+* `src/pages/Ferias.jsx` e `src/pages/Atestados.jsx`: Formulários para vinculação de vencimentos de férias e recebimento de atestados.
+
+
+* **Validações e `preventDefault()`:**
+* No evento `onSubmit` do formulário (`handleSubmit`), é executado o `e.preventDefault()` para impedir o recarregamento automático da página.
+* São aplicadas validações para evitar campos vazios, impedir datas de nascimento futuras e **garantir a unicidade do NIF** (evitando duplicidades mesmo com formatações diferentes).
+
+
+
+---
+
+### 3. `useEffect`
+
+O hook `useEffect` foi utilizado para lidar com efeitos colaterais e ações assíncronas durante o ciclo de vida dos componentes.
+
+* **Onde foi aplicado:**
+* `src/pages/Dashboard.jsx`: Executa uma chamada assíncrona assim que o componente é montado na tela para carregar um comunicado via API externa.
+* `src/pages/ConceitosReact.jsx`: Utilizado em um exemplo didático que dispara um timer (`setInterval`) no momento da montagem e limpa a memória (`clearInterval`) quando o componente é desmontado.
+
+
+
+---
+
+### 4. Consumo de APIs
+
+A integração com serviços externos foi implementada de forma assíncrona para demonstrar o recebimento e tratamento de dados HTTP.
+
+* **Onde foi aplicado:**
+* `src/services/apiService.js`: Função `fetchExternalNotice()` que utiliza `fetch()` para realizar uma requisição `GET` na API pública JSONPlaceholder (`https://jsonplaceholder.typicode.com/posts/1`).
+* `src/pages/Dashboard.jsx`: Consome essa função, trata estados de carregamento (*Loading*) e exibe o informativo dinâmico no painel principal.
+
+
+
+---
+
+### 5. React Router (`react-router-dom`)
+
+Navegação entre diferentes visões sem recarregar a página (*Single Page Application — SPA*).
+
+* **Onde foi aplicado:**
+* `src/App.jsx`: Configura o `<BrowserRouter>`, `<Routes>` e cada `<Route path="..." element={...}>`.
+* `src/components/Sidebar.jsx`: Utiliza componentes `<NavLink>` para alternar entre páginas com destaque visual na rota selecionada.
+
+
+* **Rotas configuradas no sistema:**
+* `/` — Dashboard Inicial (Indicadores e Alertas de Férias);
+* `/colaboradores` — Cadastro e Consulta com Validação de NIF;
+* `/ferias` — Controle de Vencimentos e Prazos;
+* `/atestados` — Gestão Administrativa de Atestados;
+* `/licencas` — Acompanhamento dos Itens 23 a 31 do Acordo Coletivo;
+* `/relatorios` — Exportação de Dados para Planilha Excel (`.xlsx`);
+* `/conceitos` — Demonstração Didática dos Conceitos React;
+* `/sobre` — Informações Institucionais e LGPD;
+* `*` — Tratamento de Rota Inexistente (`NotFound.jsx`).
+
+
+
+---
+
+## 📊 Exportação de Relatórios para Excel
+
+O sistema integra a biblioteca **`xlsx`** (`src/utils/exportExcel.js`) para permitir a geração e download de arquivos `.xlsx` compatíveis com Microsoft Excel e LibreOffice Calc.
+
+* **Garantia de Integridade:** O campo NIF é exportado explicitamente como texto (`string`) para impedir que o Excel remova zeros à esquerda ou altere a formatação original do identificador.
+
+---
+
+## 🛡️ Segurança, Minimização de Dados e LGPD
+
+* **Dados Fictícios:** Todo o ambiente de demonstração e o repositório público utilizam estritamente dados simulados.
+* **Privacidade Médica:** O módulo de atestados médicos não coleta nem armazena diagnósticos clínicos, CID ou anexos, limitando-se ao controle do fluxo administrativo exigido pela instituição.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **React 18** (Vite)
+* **JavaScript (ES6+)**
+* **React Router DOM 6**
+* **Tailwind CSS** (Estilização responsiva institucional)
+* **Lucide React** (Ícones da interface)
+* **XLSX (SheetJS)** (Gerador de planilhas)
