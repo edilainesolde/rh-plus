@@ -70,7 +70,7 @@ export default {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SENAI CFP 404 - Gestão de RH</title>
+    <title>Gestão de RH</title>
   </head>
   <body>
     <div id="root"></div>
@@ -149,7 +149,7 @@ export const exportToExcel = (data, fileName = 'relatorio_senai.xlsx', sheetName
     const data = await response.json();
     return {
       sucesso: true,
-      titulo: "Informativo do Sistema RH SENAI",
+      titulo: "Informativo do Sistema",
       conteudo: data.body,
       origem: "API Pública de Demonstração"
     };
@@ -262,7 +262,7 @@ export default function Header() {
             <Building2 className="w-7 h-7 text-white" />
           </div>
           <div>
-            <h1 className="text-xl font-extrabold">SENAI CFP 404 — Sorocaba Itavuvu</h1>
+            <h1 className="text-xl font-extrabold">RH Plus</h1>
             <p className="text-sky-200 text-sm font-medium">Gestão de Prazos e Rotinas de RH</p>
           </div>
         </div>
